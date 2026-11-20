@@ -36,8 +36,8 @@ We welcome applications from researchers in **India and abroad** working in any 
 ```{=html}
 <ul class="dates">
   <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
 </ul>
@@ -71,15 +71,13 @@ For PhD students and postdocs, a **limited number of rooms** will be reserved in
 
 ## Application form
 
+**Invited speakers** and their **accompanying group members** will also use this form to submit the title and abstract of their talk or poster.
+
 ```{=html}
-<div class="form-placeholder">
-  <div class="ph-title">The application form will open soon</div>
-  <p>Please check back after the public announcement.</p>
+<!-- "is-closed" keeps the frame short while the form only shows its "not open yet" message.
+     Remove is-closed when applications open, and the frame becomes as tall as the screen. -->
+<div class="form-embed is-closed">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScB2YHULYQYiwc4Xb2enY_ksOBhaHHzViheFPMghagu3VSd5g/viewform?embedded=true" title="QSYI 2027 application form" loading="lazy">Loading…</iframe>
 </div>
-<!--
-  When the Google Form is ready, replace the placeholder above with:
-  <div class="form-embed">
-    <iframe src="https://docs.google.com/forms/d/e/FORM_ID/viewform?embedded=true" loading="lazy">Loading…</iframe>
-  </div>
--->
+<p class="form-fallback">If the form does not load, <a href="https://docs.google.com/forms/d/e/1FAIpQLScB2YHULYQYiwc4Xb2enY_ksOBhaHHzViheFPMghagu3VSd5g/viewform">open it in a new tab</a>.</p>
 ```

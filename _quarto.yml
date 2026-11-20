@@ -45,5 +45,7 @@ format:
     toc: false
     page-layout: full
     lang: en-US
+    include-in-header:
+      text: '<meta name="color-scheme" content="only light">'
     smooth-scroll: true
     link-external-newwindow: true

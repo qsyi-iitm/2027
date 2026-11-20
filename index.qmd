@@ -73,8 +73,8 @@ QSYI covers the breadth of quantum science and technology, with an emphasis on t
 ```{=html}
 <ul class="dates">
   <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
   <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
 </ul>
