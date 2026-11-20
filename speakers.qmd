@@ -1,0 +1,43 @@
+---
+title: "Speakers"
+description: "Invited speakers and eminent colloquium speakers at QSYI 2027, IIT Madras."
+html-math-method: plain
+listing:
+  id: invited
+  contents: speakers.yml
+  template: speakers.ejs
+  sort: false
+---
+
+```{=html}
+<section class="page-hero">
+  <h1>Speakers</h1>
+  <p>Early-career group leaders from India and abroad, and two eminent colloquium speakers</p>
+</section>
+```
+
+## Eminent colloquium speakers
+
+The two **public colloquia** are open to everyone on the IIT Madras campus.
+
+```{=html}
+<div class="people">
+  <div class="qcard speaker eminent">
+    <div class="avatar">AR</div>
+    <div class="name">Ana Maria Rey</div>
+    <div class="aff">University of Colorado Boulder, USA</div>
+  </div>
+  <div class="qcard speaker eminent">
+    <div class="avatar">JJ</div>
+    <div class="name">Jainendra K. Jain</div>
+    <div class="aff">Pennsylvania State University, USA</div>
+  </div>
+</div>
+```
+
+## Invited speakers
+
+Each invited speaker gives a **40-minute talk** covering their recent work and their **future research plans**.
+
+::: {#invited}
+:::

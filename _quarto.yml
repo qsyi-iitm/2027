@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "QSYI 2027"
+  site-url: "https://qsyi-iitm.github.io/2027/"
+  description: "Quantum Symposium for Young Investigators (QSYI), March 15 to 19, 2027, IIT Madras, Chennai"
+  favicon: assets/favicon.png
+  image: assets/banner.jpg
+  page-navigation: false
+  search: false
+  open-graph: true
+  navbar:
+    background: "#ffffff"
+    foreground: "#1b1f2a"
+    logo: assets/qsyi-logo.png
+    logo-alt: "QSYI logo"
+    title: "QSYI 2027"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Speakers"
+        href: speakers.qmd
+      - text: "Application"
+        href: application.qmd
+      - text: "Program"
+        href: program.qmd
+      - text: "Visit Info"
+        href: visit.qmd
+  page-footer:
+    background: "#0d1446"
+    foreground: "#c9cdea"
+    left: "**QSYI 2027** &nbsp;·&nbsp; March 15 to 19, 2027 &nbsp;·&nbsp; IIT Madras, Chennai"
+    center: "© 2026 [CQuICC](https://quantum.iitm.ac.in/home), IIT Madras"
+    right: "Website by [Titas Chanda](https://titaschanda.github.io)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    page-layout: full
+    lang: en-US
+    smooth-scroll: true
+    link-external-newwindow: true

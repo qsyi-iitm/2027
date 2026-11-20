@@ -1,0 +1,85 @@
+---
+title: "Application"
+description: "How to apply to QSYI 2027: posters, contributed talks and participation, key dates and registration fees."
+---
+
+```{=html}
+<section class="page-hero">
+  <h1>Application</h1>
+  <p>Apply to present a poster, give a contributed talk, or attend QSYI 2027</p>
+</section>
+```
+
+We welcome applications from researchers in **India and abroad** working in any area of quantum science and technology. All applications will be reviewed by the **organizing committee**. Poster and contributed talk applications will be selected on the basis of **scientific merit** and **relevance** to the [themes](index.html#themes) of the symposium.
+
+## Types of application
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <div class="qcard">
+    <h3>Poster presentation</h3>
+    <p>For <strong>PhD students and postdocs</strong>. The poster sessions give you plenty of time to discuss your work with the invited speakers, the colloquium speakers and other participants.</p>
+  </div>
+  <div class="qcard">
+    <h3>Contributed talk</h3>
+    <p>For <strong>early-career principal investigators</strong>, such as assistant professors and junior group leaders. Four contributed talks of 20 minutes each will be selected from the applications.</p>
+  </div>
+  <div class="qcard">
+    <h3>Participation</h3>
+    <p>For <strong>students, postdocs, faculty and industry researchers</strong> who would like to attend the talks, colloquia and poster sessions without presenting.</p>
+  </div>
+</div>
+```
+
+## Key dates
+
+```{=html}
+<ul class="dates">
+  <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
+  <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
+  <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
+</ul>
+```
+
+Participants who **need a visa** to visit India should apply by the [earlier deadline]{.hl}. Conference visas can be applied for only after the symposium receives clearance from the [Ministry of External Affairs](https://www.mea.gov.in/), Government of India, which takes time.
+
+## What you will need
+
+- Your **name, affiliation, position** and **contact details**
+- The **type of application**: poster, contributed talk or participation
+- For posters and contributed talks, a **title** and an **abstract**
+
+## Registration fee
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <div class="qcard stat"><div class="num">₹2,000</div><div class="lbl">Students and postdocs</div></div>
+  <div class="qcard stat"><div class="num">₹3,000</div><div class="lbl">Faculty</div></div>
+  <div class="qcard stat"><div class="num">₹5,000</div><div class="lbl">Industry delegates</div></div>
+</div>
+```
+
+There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members. Other participants will receive a **payment link by email** after their application is accepted.
+
+## Accommodation
+
+Accommodation is provided **only for invited speakers and their accompanying group members**. All other participants are requested to **make their own arrangements**.
+
+For PhD students and postdocs, a **limited number of rooms** will be reserved in the IIT Madras hostels. These rooms are charged separately, and the charges are to be paid **directly by the participants**. See the [Visit Info](visit.html) page for travel information.
+
+## Application form
+
+```{=html}
+<div class="form-placeholder">
+  <div class="ph-title">The application form will open soon</div>
+  <p>Please check back after the public announcement.</p>
+</div>
+<!--
+  When the Google Form is ready, replace the placeholder above with:
+  <div class="form-embed">
+    <iframe src="https://docs.google.com/forms/d/e/FORM_ID/viewform?embedded=true" loading="lazy">Loading…</iframe>
+  </div>
+-->
+```

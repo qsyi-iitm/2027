@@ -1,0 +1,151 @@
+---
+title: "Visit Info"
+description: "Venue, travel, accommodation and sightseeing information for QSYI 2027 at IIT Madras, Chennai."
+---
+
+```{=html}
+<section class="page-hero">
+  <h1>Visit Info</h1>
+  <p>Venue, travel, accommodation and sightseeing information</p>
+</section>
+```
+
+## Venue
+
+```{=html}
+<div class="venue">
+  <iframe class="venue-map" src="https://maps.google.com/maps?q=ICSR%20Building%2C%20IIT%20Madras%2C%20Chennai&z=16&output=embed" loading="lazy" title="Map of the ICSR Building, IIT Madras"></iframe>
+  <div class="venue-panel">
+    <span class="tag">Venue</span>
+    <h3>TTJ Auditorium</h3>
+    <div class="venue-sub">ICSR Building, IIT Madras</div>
+    <p>Sardar Patel Road, Adyar<br>Chennai 600036, India</p>
+    <p class="venue-note">All sessions of the symposium will be held here.</p>
+    <div class="venue-btns">
+      <a class="btn-q btn-q-primary" href="https://www.google.com/maps/dir/?api=1&destination=ICSR+Building+IIT+Madras+Chennai">Get directions</a>
+      <a class="btn-q btn-q-ghost" href="https://www.google.com/maps/search/?api=1&query=ICSR+Building+IIT+Madras+Chennai">Open map</a>
+    </div>
+  </div>
+</div>
+```
+
+## How to reach IIT Madras
+
+```{=html}
+<div class="qgrid qgrid-2">
+  <div class="qcard travel">
+    <h4>By air</h4>
+    <ul class="ilist">
+      <li><b>Airport</b><a href="https://www.aai.aero/en/airports/chennai">Chennai International Airport (MAA)</a>, about <strong>14 km</strong> from IIT Madras</li>
+      <li><b>Taxi</b>Uber, Ola, Rapido and prepaid taxis pick up passengers at the multi-level car park in the <strong>Aerohub West</strong> building. The drive to the campus takes about <strong>30 to 45 minutes</strong></li>
+      <li><b>Metro</b>From the airport station to <strong>Guindy</strong> on <a href="https://chennaimetrorail.org/">Chennai Metro</a>, then a short taxi ride</li>
+    </ul>
+  </div>
+  <div class="qcard travel">
+    <h4>By train or bus</h4>
+    <ul class="ilist">
+      <li><b>Chennai Central (MAS)</b>Connected to major cities across India. About 30 to 45 minutes to the campus by taxi or auto-rickshaw</li>
+      <li><b>Chennai Egmore (MS)</b>Mainly serves Tamil Nadu and neighboring states. About 20 to 30 minutes to the campus</li>
+      <li><b>Interstate buses</b>Arrive at the Kalaignar Centenary Bus Terminus or at the Chennai Mofussil Bus Terminus (CMBT), Koyambedu</li>
+      <li><b>Onward</b>Take a taxi or auto-rickshaw from the station or bus terminus to the campus</li>
+    </ul>
+  </div>
+</div>
+<div class="qcard travel travel-wide">
+  <h4>Getting to the campus</h4>
+  <ul class="ilist ilist-2">
+    <li><b>Main gate</b>On <strong>Sardar Patel Road</strong>, Adyar</li>
+    <li><b>Metro</b>Nearest station is <strong>Guindy</strong>, a short taxi or auto-rickshaw ride away</li>
+    <li><b>City buses</b>Stops at Adyar Gate and CLRI</li>
+    <li><b>On campus</b>Shuttle buses run from the main gate. The security staff can guide you to the ICSR Building</li>
+  </ul>
+</div>
+```
+
+## Accommodation
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <div class="qcard stay">
+    <span class="tag">Eminent colloquium speakers</span>
+    <h4>Bose-Einstein Guest House</h4>
+    <p>BEGH, on the IIT Madras campus.</p>
+  </div>
+  <div class="qcard stay">
+    <span class="tag">Invited speakers</span>
+    <h4><a href="https://tgh.iitm.ac.in/">Taramani Guest House</a></h4>
+    <p>TGH, on the IIT Madras campus.</p>
+  </div>
+  <div class="qcard stay">
+    <span class="tag">Accompanying group members</span>
+    <h4>Hotels near the campus</h4>
+    <p>Shuttles will be arranged between the hotels and the venue.</p>
+  </div>
+</div>
+```
+
+Details will be shared with speakers and their group members directly. All other participants are requested to **make their own arrangements**. Please see the [Application](application.html) page for details on hostel rooms for PhD students and postdocs.
+
+## During the symposium
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <div class="qcard"><h4>Meals</h4><p><strong>Lunch, coffee and dinner</strong> will be provided on all days of the symposium.</p></div>
+  <div class="qcard"><h4>Excursion</h4><p><strong>Wednesday afternoon</strong> is set aside for an excursion, followed by the conference dinner and Quantum Mixer.</p></div>
+  <div class="qcard"><h4>Weather</h4><p>March in Chennai is warm and humid, with daytime temperatures of about <strong>25 to 33&nbsp;°C</strong>. Light cotton clothing is recommended.</p></div>
+</div>
+```
+
+## Sightseeing in and around Chennai
+
+Chennai and its surroundings offer a rich mix of **history, culture and coastline**. Distances are approximate road distances from the IIT Madras main gate.
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple">
+    <span class="dist">8 km</span>
+    <h4>Kapaleeshwarar Temple</h4>
+    <p>A temple dedicated to Shiva in Mylapore, one of the oldest neighborhoods of Chennai, known for its tall, richly sculpted gopuram in the Dravidian style.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/St._Thomas_Cathedral_Basilica,_Chennai">
+    <span class="dist">9 km</span>
+    <h4>Santhome Basilica</h4>
+    <p>A neo-Gothic cathedral built over the tomb of St. Thomas the Apostle, one of only three churches in the world built over the tomb of an apostle.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Marina_Beach">
+    <span class="dist">10 km</span>
+    <h4>Marina Beach</h4>
+    <p>One of the longest urban beaches in the world, stretching about 13 km along the Bay of Bengal. Best visited early in the morning or in the evening.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Fort_St._George,_India">
+    <span class="dist">14 km</span>
+    <h4>Fort St. George</h4>
+    <p>Founded in 1639, the first English fortress in India. Today it houses the Tamil Nadu Legislative Assembly and the Fort Museum.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/DakshinaChitra">
+    <span class="dist">26 km</span>
+    <h4>DakshinaChitra</h4>
+    <p>A living museum of South Indian art, crafts and heritage on the East Coast Road, with traditional homes from Tamil Nadu, Kerala, Andhra Pradesh and Karnataka.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Group_of_Monuments_at_Mahabalipuram">
+    <span class="dist">49 km</span>
+    <h4>Mahabalipuram</h4>
+    <p>A UNESCO World Heritage Site with Pallava monuments from the 7th and 8th centuries, including the Shore Temple, cave temples and monumental bas-reliefs.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Kanchipuram">
+    <span class="dist">74 km</span>
+    <h4>Kanchipuram</h4>
+    <p>One of the seven sacred cities of Hinduism, known for its many ancient Dravidian temples and its handwoven silk sarees.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Vedanthangal_Bird_Sanctuary">
+    <span class="dist">82 km</span>
+    <h4>Vedanthangal Bird Sanctuary</h4>
+    <p>One of the oldest bird sanctuaries in India. Large numbers of migratory water birds can be seen here until March.</p>
+  </a>
+  <a class="qcard place" href="https://en.wikipedia.org/wiki/Pondicherry">
+    <span class="dist">140 km</span>
+    <h4>Pondicherry</h4>
+    <p>A former French colony on the Bay of Bengal, known for the tree-lined streets and colonial architecture of White Town, its seaside promenade and nearby Auroville.</p>
+  </a>
+</div>
+```

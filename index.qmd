@@ -1,0 +1,189 @@
+---
+title: "Quantum Symposium for Young Investigators"
+description: "QSYI 2027, the second Quantum Symposium for Young Investigators, March 15 to 19, 2027, at IIT Madras, Chennai."
+---
+
+```{=html}
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+    <div class="eyebrow">Second edition</div>
+    <h1>Quantum Symposium for Young Investigators</h1>
+    <div class="edition">QSYI 2027</div>
+    <div class="meta">March 15 to 19, 2027 &nbsp;·&nbsp; TTJ Auditorium, ICSR Building, IIT Madras, Chennai</div>
+    <div class="btns">
+      <a class="btn-q btn-q-light" href="application.html">Apply now</a>
+      <a class="btn-q btn-q-outline" href="program.html">View program</a>
+    </div>
+    </div>
+    <div class="hero-side">
+      <div class="hero-logo"><img src="assets/qsyi-logo.png" alt="QSYI logo"></div>
+      <div class="countdown" id="countdown">
+        <div class="cd-head">Starts in</div>
+        <div class="cd-row">
+          <div class="unit"><div class="num" id="cd-d">--</div><div class="lbl">Days</div></div>
+          <div class="unit"><div class="num" id="cd-h">--</div><div class="lbl">Hours</div></div>
+          <div class="unit"><div class="num" id="cd-m">--</div><div class="lbl">Minutes</div></div>
+          <div class="unit"><div class="num" id="cd-s">--</div><div class="lbl">Seconds</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+## About QSYI
+
+The **Quantum Symposium for Young Investigators (QSYI)** returns to [IIT Madras](https://www.iitm.ac.in/), Chennai, for its second edition, from [March 15 to 19, 2027]{.hl}.
+
+QSYI brings together **early-career researchers** in quantum science and technology, with a special focus on young faculty members and group leaders who have recently set up their own research groups. The symposium offers them a platform to present their work, share their **future research directions**, and build **collaborations** across India and abroad.
+
+The scientific program spans a broad range of topics, from quantum simulation and many-body physics to quantum computation, information, communication, sensing and control, with both **theory and experiment** represented.
+
+The program features [invited talks](speakers.html), contributed talks, [two public colloquia]{.hl-blue} by eminent physicists, and poster sessions. Invited speakers are encouraged to bring a PhD student or postdoc from their group to present a poster. Other PhD students and postdocs may [apply](application.html) to present posters, and early-career faculty may apply for contributed talks. **All talks will be streamed live.**
+
+The [first edition](https://sites.google.com/physics.iitm.ac.in/qsyi-2025/) was held at IIT Madras in March 2025 as a two-day national meeting. QSYI 2027 is hosted by the [Center for Quantum Information, Communication and Computing (CQuICC)](https://quantum.iitm.ac.in/home), IIT Madras.
+
+```{=html}
+<div class="qgrid qgrid-4">
+  <div class="qcard stat"><div class="num">5</div><div class="lbl">days</div></div>
+  <div class="qcard stat"><div class="num">24</div><div class="lbl">invited speakers</div></div>
+  <div class="qcard stat"><div class="num">2</div><div class="lbl">public colloquia</div></div>
+  <div class="qcard stat"><div class="num">Live</div><div class="lbl">streamed</div></div>
+</div>
+```
+
+## Themes
+
+QSYI covers the breadth of quantum science and technology, with an emphasis on the interface between **fundamental physics** and **emerging quantum technologies**.
+
+```{=html}
+<div class="qgrid qgrid-3 themes">
+  <div class="qcard theme-card"><h4>Quantum simulation</h4><p>Analog and digital quantum simulation with trapped ions, ultracold and Rydberg atoms and other platforms, from lattice gauge theories to quantum many-body models.</p></div>
+  <div class="qcard theme-card"><h4>Quantum sensing and metrology</h4><p>Entanglement-enhanced sensing, optical clocks and precision spectroscopy, and spin-based sensors such as NV centers in diamond.</p></div>
+  <div class="qcard theme-card"><h4>Quantum computation and algorithms</h4><p>Quantum algorithms, error correction and mitigation on near-term hardware, and applications to quantum chemistry and quantum machine learning.</p></div>
+  <div class="qcard theme-card"><h4>Quantum information and communication</h4><p>Entanglement and quantum correlations, resource theories, quantum communication and cryptography, and quantum thermodynamics.</p></div>
+  <div class="qcard theme-card"><h4>Quantum many-body physics</h4><p>Strongly correlated and topological matter, non-equilibrium dynamics and thermalization, and open and driven-dissipative quantum systems.</p></div>
+  <div class="qcard theme-card"><h4>Quantum control and dynamics</h4><p>Coherent and optimal control of atoms, molecules and qubits, light-matter interaction in cavities, and ultrafast quantum dynamics.</p></div>
+</div>
+```
+
+## Key dates
+
+```{=html}
+<ul class="dates">
+  <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
+  <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
+  <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
+  <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
+</ul>
+```
+
+For details on how to apply, see the [Application](application.html) page.
+
+## Organizing committee
+
+```{=html}
+<div class="people max3">
+  <a class="qcard speaker" href="https://titaschanda.github.io">
+    <div class="avatar"><img src="assets/organisers/titas.jpg" alt="Titas Chanda"></div>
+    <div class="name">Titas Chanda</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://sites.google.com/physics.iitm.ac.in/quantum-optics-theory-iitm/about">
+    <div class="avatar"><img src="assets/organisers/athreya.jpg" alt="Athreya Shankar"></div>
+    <div class="name">Athreya Shankar</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://sites.google.com/smail.iitm.ac.in/spins-photons-yet-more">
+    <div class="avatar"><img src="assets/organisers/siddharth.jpg" alt="Siddharth Dhomkar"></div>
+    <div class="name">Siddharth Dhomkar</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://sites.google.com/view/pranay-patil-research-group/about">
+    <div class="avatar"><img src="assets/organisers/pranay.jpg" alt="Pranay Patil"></div>
+    <div class="name">Pranay Patil</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://nkrishna88.wixsite.com/website">
+    <div class="avatar"><img src="assets/organisers/krishna.jpg" alt="Krishna R. Nandipati"></div>
+    <div class="name">Krishna R. Nandipati</div>
+    <div class="aff">Department of Chemistry, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://sites.google.com/smail.iitm.ac.in/caqsat/home">
+    <div class="avatar"><img src="assets/organisers/rahul.jpg" alt="Rahul Sawant"></div>
+    <div class="name">Rahul Sawant</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+</div>
+```
+
+## Advisory committee
+
+```{=html}
+<div class="people">
+  <a class="qcard speaker" href="https://physics.iitm.ac.in/~arul/">
+    <div class="avatar"><img src="assets/advisory/arul.jpg" alt="Arul Lakshminarayan"></div>
+    <div class="name">Arul Lakshminarayan</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://sites.google.com/ee.iitm.ac.in/anilprabhakar">
+    <div class="avatar"><img src="assets/advisory/anil.jpg" alt="Anil Prabhakar"></div>
+    <div class="name">Anil Prabhakar</div>
+    <div class="aff">Department of Electrical Engineering, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://physics.iitm.ac.in/~prabhamd/">
+    <div class="avatar"><img src="assets/advisory/prabha.jpg" alt="Prabha Mandayam"></div>
+    <div class="name">Prabha Mandayam</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+  <a class="qcard speaker" href="https://physics.iitm.ac.in/research/theoreticalcondensedmatterphysics/rajeshnarayanan.html">
+    <div class="avatar"><img src="assets/advisory/rajesh.jpg" alt="Rajesh Narayanan"></div>
+    <div class="name">Rajesh Narayanan</div>
+    <div class="aff">Department of Physics, IIT Madras</div>
+  </a>
+</div>
+```
+
+## Supported by
+
+```{=html}
+<div class="supporters">
+  <a href="https://www.mphasis.com/home/corporate/community-social-responsibility.html"><img src="assets/logos/mphasis-f1.svg" alt="Mphasis F1 Foundation" style="height:56px"></a>
+  <a href="https://ge.iitm.ac.in/"><img src="assets/logos/oge.svg" alt="Office of Global Engagement, IIT Madras" style="height:44px"></a>
+  <a href="https://quantum.iitm.ac.in/home"><img src="assets/logos/cquicc.svg" alt="CQuICC, IIT Madras" style="height:50px"></a>
+  <a href="https://www.iitm.ac.in/"><img src="assets/logos/iitm.svg" alt="IIT Madras" style="height:84px"></a>
+</div>
+<a class="lookback" href="https://sites.google.com/physics.iitm.ac.in/qsyi-2025/">
+  <div>
+    <div class="lb-eyebrow">Looking back</div>
+    <div class="lb-title">QSYI 2025</div>
+    <div class="lb-text">The first edition, held at IIT Madras on March 7 and 8, 2025</div>
+  </div>
+  <span class="lb-btn">Visit the QSYI 2025 website &rarr;</span>
+</a>
+```
+
+```{=html}
+<script>
+// Countdown to the opening session: March 15, 2027, 9:00 AM IST
+(function () {
+  const target = new Date("2027-03-15T09:00:00+05:30").getTime();
+  const el = id => document.getElementById(id);
+  if (!el("cd-d")) return;
+  function tick() {
+    let d = Math.max(0, target - Date.now());
+    const days = Math.floor(d / 864e5); d -= days * 864e5;
+    const h = Math.floor(d / 36e5); d -= h * 36e5;
+    const m = Math.floor(d / 6e4); d -= m * 6e4;
+    const s = Math.floor(d / 1e3);
+    el("cd-d").textContent = days;
+    el("cd-h").textContent = String(h).padStart(2, "0");
+    el("cd-m").textContent = String(m).padStart(2, "0");
+    el("cd-s").textContent = String(s).padStart(2, "0");
+  }
+  tick(); setInterval(tick, 1000);
+})();
+</script>
+```

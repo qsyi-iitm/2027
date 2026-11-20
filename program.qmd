@@ -1,0 +1,20 @@
+---
+title: "Program"
+description: "Program of QSYI 2027, March 15 to 19, 2027, IIT Madras."
+---
+
+```{=html}
+<section class="page-hero">
+  <h1>Program</h1>
+  <p>March 15 to 19, 2027 · TTJ Auditorium, ICSR Building, IIT Madras</p>
+</section>
+
+<div class="form-placeholder">
+  <div class="ph-title">The program will be announced closer to the symposium dates</div>
+  <p>The detailed schedule of talks, colloquia and poster sessions will be posted on this page.</p>
+</div>
+```
+
+::: {.after-notice}
+The talks will be **streamed live**. Streaming links will be posted here before the symposium. Meanwhile, see the [Speakers](speakers.html) page for the list of speakers.
+:::
