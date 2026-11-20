@@ -138,7 +138,7 @@ For details on how to apply, see the [Application](application.html) page.
     <div class="name">Prabha Mandayam</div>
     <div class="aff">Department of Physics, IIT Madras</div>
   </a>
-  <a class="qcard speaker" href="https://physics.iitm.ac.in/research/theoreticalcondensedmatterphysics/rajeshnarayanan.html">
+  <a class="qcard speaker" href="https://physics.iitm.ac.in/people/facultyinfo/rnarayanan.html">
     <div class="avatar"><img src="assets/advisory/rajesh.jpg" alt="Rajesh Narayanan"></div>
     <div class="name">Rajesh Narayanan</div>
     <div class="aff">Department of Physics, IIT Madras</div>
