@@ -50,9 +50,9 @@ QSYI 2027 welcomes researchers from **India and abroad** working in any area of 
 
 ```{=html}
 <div class="qgrid qgrid-3">
-  <div class="qcard stat"><div class="num">₹2,000</div><div class="lbl">Students and postdocs</div></div>
-  <div class="qcard stat"><div class="num">₹3,000</div><div class="lbl">Faculty</div></div>
-  <div class="qcard stat"><div class="num">₹5,000</div><div class="lbl">Industry delegates</div></div>
+  <div class="qcard stat"><div class="num"><span class="inr">₹</span>2,000</div><div class="lbl">Students and postdocs</div></div>
+  <div class="qcard stat"><div class="num"><span class="inr">₹</span>3,000</div><div class="lbl">Faculty</div></div>
+  <div class="qcard stat"><div class="num"><span class="inr">₹</span>5,000</div><div class="lbl">Industry delegates</div></div>
 </div>
 ```
 
