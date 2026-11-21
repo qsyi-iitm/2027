@@ -33,11 +33,11 @@ QSYI 2027 welcomes researchers from **India and abroad** working in any area of 
 <div class="qgrid qgrid-3">
   <div class="qcard">
     <h3>Poster presentation</h3>
-    <p>For <strong>PhD students and postdocs</strong>. The poster sessions are a chance to discuss your work with the speakers and other participants.</p>
+    <p>For <strong>students</strong> (bachelor's, master's or PhD), <strong>postdocs</strong> and <strong>faculty members</strong>. The poster sessions are a chance to discuss your work with the speakers and other participants.</p>
   </div>
   <div class="qcard">
     <h3>Contributed talk</h3>
-    <p>For <strong>early-career principal investigators</strong>, such as assistant professors and junior group leaders. <strong>Four</strong> contributed talks of 20 minutes each will be selected.</p>
+    <p>For <strong>early-career principal investigators</strong>, such as assistant professors and junior group leaders. Each contributed talk is <strong>20 minutes</strong> long.</p>
   </div>
   <div class="qcard">
     <h3>Participation</h3>
@@ -82,7 +82,7 @@ If you **need a visa** to visit India, please apply by the [earlier deadline]{.h
 
 The organizers will arrange accommodation for **invited speakers and their accompanying group members**.
 
-For **selected PhD students and postdocs**, we will reserve a **limited number of rooms** in the IIT Madras hostels. You can request a room in the application form, and the room charges are paid by the participants.
+For **selected students and postdocs**, we will reserve a **limited number of rooms** in the IIT Madras hostels. You can request a room in the application form, and the room charges are paid by the participants.
 
 We request all other participants to **make their own arrangements**. For travel information, see the [Visit Info](visit.html) page.
 
