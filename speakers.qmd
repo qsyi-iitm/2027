@@ -1,5 +1,9 @@
 ---
-title: "Speakers"
+pagetitle: "Speakers"
+open-graph:
+  title: "Speakers – QSYI 2027"
+twitter-card:
+  title: "Speakers – QSYI 2027"
 description: "Invited speakers and eminent colloquium speakers at QSYI 2027, IIT Madras."
 html-math-method: plain
 listing:

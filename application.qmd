@@ -1,5 +1,9 @@
 ---
-title: "Application"
+pagetitle: "Application"
+open-graph:
+  title: "Application – QSYI 2027"
+twitter-card:
+  title: "Application – QSYI 2027"
 description: "How to apply to QSYI 2027: posters, contributed talks and participation, key dates and registration fees."
 ---
 

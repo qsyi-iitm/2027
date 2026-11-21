@@ -1,5 +1,9 @@
 ---
-title: "Visit Info"
+pagetitle: "Visit Info"
+open-graph:
+  title: "Visit Info – QSYI 2027"
+twitter-card:
+  title: "Visit Info – QSYI 2027"
 description: "Venue, travel, accommodation and sightseeing information for QSYI 2027 at IIT Madras, Chennai."
 ---
 

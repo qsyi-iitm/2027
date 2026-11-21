@@ -1,5 +1,9 @@
 ---
-title: "Quantum Symposium for Young Investigators"
+pagetitle: "Quantum Symposium for Young Investigators"
+open-graph:
+  title: "Quantum Symposium for Young Investigators – QSYI 2027"
+twitter-card:
+  title: "Quantum Symposium for Young Investigators – QSYI 2027"
 description: "QSYI 2027, the second Quantum Symposium for Young Investigators, March 15 to 19, 2027, at IIT Madras, Chennai."
 ---
 
@@ -185,5 +189,58 @@ For details on how to apply, see the [Application](application.html) page.
   }
   tick(); setInterval(tick, 1000);
 })();
+</script>
+```
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Quantum Symposium for Young Investigators 2027 (QSYI 2027)",
+  "alternateName": "QSYI 2027",
+  "description": "The second Quantum Symposium for Young Investigators, a five-day meeting for early-career researchers in quantum science and technology, with invited talks, contributed talks, two public colloquia and poster sessions. All talks are streamed live.",
+  "url": "https://qsyi-iitm.github.io/2027/",
+  "image": ["https://qsyi-iitm.github.io/2027/assets/og-image.jpg"],
+  "startDate": "2027-03-15T09:00:00+05:30",
+  "endDate": "2027-03-19T18:00:00+05:30",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+  "inLanguage": "en",
+  "location": [
+    {
+      "@type": "Place",
+      "name": "TTJ Auditorium, ICSR Building, IIT Madras",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sardar Patel Road, Adyar",
+        "addressLocality": "Chennai",
+        "addressRegion": "Tamil Nadu",
+        "postalCode": "600036",
+        "addressCountry": "IN"
+      }
+    },
+    { "@type": "VirtualLocation", "url": "https://qsyi-iitm.github.io/2027/program.html" }
+  ],
+  "organizer": {
+    "@type": "Organization",
+    "name": "Center for Quantum Information, Communication and Computing (CQuICC), IIT Madras",
+    "url": "https://quantum.iitm.ac.in/home"
+  },
+  "performer": [
+    { "@type": "Person", "name": "Ana Maria Rey" },
+    { "@type": "Person", "name": "Jainendra K. Jain" }
+  ],
+  "offers": [
+    { "@type": "Offer", "name": "Students and postdocs", "price": "2000", "priceCurrency": "INR", "url": "https://qsyi-iitm.github.io/2027/application.html" },
+    { "@type": "Offer", "name": "Faculty", "price": "3000", "priceCurrency": "INR", "url": "https://qsyi-iitm.github.io/2027/application.html" },
+    { "@type": "Offer", "name": "Industry delegates", "price": "5000", "priceCurrency": "INR", "url": "https://qsyi-iitm.github.io/2027/application.html" }
+  ],
+  "superEvent": {
+    "@type": "EventSeries",
+    "name": "Quantum Symposium for Young Investigators",
+    "url": "https://qsyi-iitm.github.io/"
+  }
+}
 </script>
 ```

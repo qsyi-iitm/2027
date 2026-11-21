@@ -50,6 +50,7 @@ format:
     toc: false
     page-layout: full
     lang: en-US
+    canonical-url: true
     include-in-header:
       text: '<meta name="color-scheme" content="only light">'
     smooth-scroll: true

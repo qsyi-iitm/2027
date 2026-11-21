@@ -1,5 +1,9 @@
 ---
-title: "Program"
+pagetitle: "Program"
+open-graph:
+  title: "Program – QSYI 2027"
+twitter-card:
+  title: "Program – QSYI 2027"
 description: "Program of QSYI 2027, March 15 to 19, 2027, IIT Madras."
 ---
 
