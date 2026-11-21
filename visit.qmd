@@ -88,7 +88,7 @@ description: "Venue, travel, accommodation and sightseeing information for QSYI 
 </div>
 ```
 
-Details will be shared with speakers and their group members directly. All other participants are requested to **make their own arrangements**. Please see the [Application](application.html) page for details on hostel rooms for PhD students and postdocs.
+We will share the details directly with the speakers and their group members. We request all other participants to **make their own arrangements**. For the **hostel rooms** reserved for selected PhD students and postdocs, see the [Application](application.html#accommodation) page.
 
 ## During the symposium
 

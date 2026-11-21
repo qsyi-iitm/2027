@@ -10,11 +10,22 @@ description: "How to apply to QSYI 2027: posters, contributed talks and particip
 ```{=html}
 <section class="page-hero">
   <h1>Application</h1>
-  <p>Apply to present a poster, give a contributed talk, or attend QSYI 2027</p>
+  <p>Apply to present a poster, give a contributed talk or attend QSYI 2027</p>
 </section>
 ```
 
-We welcome applications from researchers in **India and abroad** working in any area of quantum science and technology. All applications will be reviewed by the **organizing committee**. Poster and contributed talk applications will be selected on the basis of **scientific merit** and **relevance** to the [themes](index.html#themes) of the symposium.
+QSYI 2027 welcomes researchers from **India and abroad** working in any area of quantum science and technology. **Participation is by application.** The organizing committee will review every application and select participants on the basis of **scientific merit** and **relevance** to the [themes](index.html#themes) of the symposium.
+
+## How it works
+
+```{=html}
+<ol class="steps">
+  <li><strong>Apply</strong> using the <a href="#application-form">application form</a> before the deadline.</li>
+  <li>The <strong>organizing committee</strong> reviews all applications and selects the participants.</li>
+  <li><strong>Selected participants</strong> receive an email with the decision and a <strong>link to pay the registration fee</strong>.</li>
+  <li>Your <strong>registration is complete</strong> once the fee is paid.</li>
+</ol>
+```
 
 ## Types of application
 
@@ -22,11 +33,11 @@ We welcome applications from researchers in **India and abroad** working in any 
 <div class="qgrid qgrid-3">
   <div class="qcard">
     <h3>Poster presentation</h3>
-    <p>For <strong>PhD students and postdocs</strong>. The poster sessions give you plenty of time to discuss your work with the invited speakers, the colloquium speakers and other participants.</p>
+    <p>For <strong>PhD students and postdocs</strong>. The poster sessions are a chance to discuss your work with the speakers and other participants.</p>
   </div>
   <div class="qcard">
     <h3>Contributed talk</h3>
-    <p>For <strong>early-career principal investigators</strong>, such as assistant professors and junior group leaders. Four contributed talks of 20 minutes each will be selected from the applications.</p>
+    <p>For <strong>early-career principal investigators</strong>, such as assistant professors and junior group leaders. <strong>Four</strong> contributed talks of 20 minutes each will be selected.</p>
   </div>
   <div class="qcard">
     <h3>Participation</h3>
@@ -34,6 +45,18 @@ We welcome applications from researchers in **India and abroad** working in any 
   </div>
 </div>
 ```
+
+## Registration fee
+
+```{=html}
+<div class="qgrid qgrid-3">
+  <div class="qcard stat"><div class="num">₹2,000</div><div class="lbl">Students and postdocs</div></div>
+  <div class="qcard stat"><div class="num">₹3,000</div><div class="lbl">Faculty</div></div>
+  <div class="qcard stat"><div class="num">₹5,000</div><div class="lbl">Industry delegates</div></div>
+</div>
+```
+
+The registration fee is paid **only after selection**. Selected participants will receive a **payment link by email**. There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members.
 
 ## Key dates
 
@@ -47,35 +70,25 @@ We welcome applications from researchers in **India and abroad** working in any 
 </ul>
 ```
 
-Participants who **need a visa** to visit India should apply by the [earlier deadline]{.hl}. Conference visas can be applied for only after the symposium receives clearance from the [Ministry of External Affairs](https://www.mea.gov.in/), Government of India, which takes time.
+If you **need a visa** to visit India, please apply by the [earlier deadline]{.hl}. A conference visa can be requested only after the symposium is cleared by the [Ministry of External Affairs](https://www.mea.gov.in/), Government of India, and this clearance takes time.
 
 ## What you will need
 
-- Your **name, affiliation, position** and **contact details**
+- Your **name**, **affiliation**, **position** and **email address**
 - The **type of application**: poster, contributed talk or participation
 - For posters and contributed talks, a **title** and an **abstract**
 
-## Registration fee
-
-```{=html}
-<div class="qgrid qgrid-3">
-  <div class="qcard stat"><div class="num">₹2,000</div><div class="lbl">Students and postdocs</div></div>
-  <div class="qcard stat"><div class="num">₹3,000</div><div class="lbl">Faculty</div></div>
-  <div class="qcard stat"><div class="num">₹5,000</div><div class="lbl">Industry delegates</div></div>
-</div>
-```
-
-There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members. Other participants will receive a **payment link by email** after their application is accepted.
-
 ## Accommodation
 
-Accommodation is provided **only for invited speakers and their accompanying group members**. All other participants are requested to **make their own arrangements**.
+The organizers will arrange accommodation for **invited speakers and their accompanying group members**.
 
-For PhD students and postdocs, a **limited number of rooms** will be reserved in the IIT Madras hostels. These rooms are charged separately, and the charges are to be paid **directly by the participants**. See the [Visit Info](visit.html) page for travel information.
+For **selected PhD students and postdocs**, we will reserve a **limited number of rooms** in the IIT Madras hostels. You can request a room in the application form, and the room charges are paid by the participants.
+
+We request all other participants to **make their own arrangements**. For travel information, see the [Visit Info](visit.html) page.
 
 ## Application form
 
-**Invited speakers** and their **accompanying group members** will also use this form to submit the title and abstract of their talk or poster.
+**Invited speakers** and their **accompanying group members** also use this form to submit the title and abstract of their talk or poster.
 
 ```{=html}
 <!-- "is-closed" keeps the frame short while the form only shows its "not open yet" message.

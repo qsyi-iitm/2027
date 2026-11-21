@@ -41,7 +41,5 @@ The two **public colloquia** are open to everyone on the IIT Madras campus.
 
 ## Invited speakers
 
-Each invited speaker gives a **40-minute talk** covering their recent work and their **future research plans**.
-
 ::: {#invited}
 :::
