@@ -154,10 +154,10 @@ For details on how to apply, see the [Application](application.html) page.
 
 ```{=html}
 <div class="supporters">
-  <a href="https://www.mphasis.com/home/corporate/community-social-responsibility.html"><img src="assets/logos/mphasis-f1.svg" alt="Mphasis F1 Foundation" style="height:56px"></a>
-  <a href="https://ge.iitm.ac.in/"><img src="assets/logos/oge.svg" alt="Office of Global Engagement, IIT Madras" style="height:44px"></a>
-  <a href="https://quantum.iitm.ac.in/home"><img src="assets/logos/cquicc.svg" alt="CQuICC, IIT Madras" style="height:50px"></a>
-  <a href="https://www.iitm.ac.in/"><img src="assets/logos/iitm.svg" alt="IIT Madras" style="height:84px"></a>
+  <a href="https://www.mphasis.com/home/corporate/community-social-responsibility.html"><img src="assets/logos/mphasis-f1.png" alt="Mphasis F1 Foundation" style="height:56px"></a>
+  <a href="https://ge.iitm.ac.in/"><img src="assets/logos/oge.png" alt="Office of Global Engagement, IIT Madras" style="height:44px"></a>
+  <a href="https://quantum.iitm.ac.in/home"><img src="assets/logos/cquicc.png" alt="CQuICC, IIT Madras" style="height:50px"></a>
+  <a href="https://www.iitm.ac.in/"><img src="assets/logos/iitm.png" alt="IIT Madras" style="height:84px"></a>
 </div>
 <a class="lookback" href="https://sites.google.com/physics.iitm.ac.in/qsyi-2025/">
   <div>
