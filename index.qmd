@@ -44,7 +44,7 @@ QSYI brings together **early-career researchers** in quantum science and technol
 
 The scientific program spans a broad range of topics, from quantum simulation and many-body physics to quantum computation, information, communication, sensing and control, with both **theory and experiment** represented.
 
-The program features [invited talks](speakers.html), contributed talks, [two public colloquia]{.hl-blue} by eminent physicists, and poster sessions. Invited speakers are encouraged to bring a student or postdoc from their group to present a poster. Other researchers can [apply](application.html) to present a poster, give a contributed talk or attend, and participants are **selected by the organizing committee**. **All talks will be streamed live.**
+The program features [invited talks](speakers.html#invited-speakers), contributed talks, [two public colloquia](speakers.html#eminent-colloquium-speakers) by eminent physicists, and poster sessions. Invited speakers are encouraged to bring a student or postdoc from their group to present a poster. Other researchers can [apply](application.html) to present a poster, give a contributed talk or attend, and participants are **selected by the organizing committee**. **All talks will be streamed live.**
 
 The [first edition](https://sites.google.com/physics.iitm.ac.in/qsyi-2025/) was held at IIT Madras in March 2025 as a two-day national meeting. QSYI 2027 is hosted by the [Center for Quantum Information, Communication and Computing (CQuICC)](https://quantum.iitm.ac.in/home), IIT Madras.
 
