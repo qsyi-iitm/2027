@@ -26,16 +26,16 @@ The two **public colloquia** are open to everyone on the IIT Madras campus.
 
 ```{=html}
 <div class="people">
-  <div class="qcard speaker eminent">
-    <div class="avatar">AR</div>
+  <a class="qcard speaker eminent" href="https://www.colorado.edu/jila/arey">
+    <div class="avatar"><img src="assets/speakers/ana-maria-rey.jpg" alt="Ana Maria Rey"></div>
     <div class="name">Ana Maria Rey</div>
     <div class="aff">University of Colorado Boulder, USA</div>
-  </div>
-  <div class="qcard speaker eminent">
-    <div class="avatar">JJ</div>
+  </a>
+  <a class="qcard speaker eminent" href="https://science.psu.edu/physics/people/jkj2">
+    <div class="avatar"><img src="assets/speakers/jainendra-jain.jpg" alt="Jainendra K. Jain"></div>
     <div class="name">Jainendra K. Jain</div>
     <div class="aff">Pennsylvania State University, USA</div>
-  </div>
+  </a>
 </div>
 ```
 

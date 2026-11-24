@@ -1,3 +1,4 @@
+```{=html}
 <div class="people">
 <% for (const item of items) {
 const parts = item.name.replace(/[^A-Za-zÀ-ÿ\s.-]/g, "").split(/\s+/).filter(p => p && !p.endsWith("."));
@@ -6,11 +7,10 @@ const tag = item.url ? "a" : "div";
 const href = item.url ? ` href="${item.url}"` : "";
 %>
 <<%= tag %> class="qcard speaker"<%= href %>>
-<div class="avatar">
-<% if (item.photo) { %><img src="<%= item.photo %>" alt="<%= item.name %>"><% } else { %><%= initials %><% } %>
-</div>
+<div class="avatar"><% if (item.photo) { %><img src="<%= item.photo %>" alt="<%= item.name %>"><% } else { %><%= initials %><% } %></div>
 <div class="name"><%= item.name %></div>
 <div class="aff"><%= item.affiliation %>, <%= item.country %></div>
 </<%= tag %>>
 <% } %>
 </div>
+```
