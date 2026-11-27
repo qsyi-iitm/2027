@@ -22,8 +22,8 @@ QSYI 2027 welcomes researchers from **India and abroad** working in any area of 
 <ol class="steps">
   <li><strong>Apply</strong> using the <a href="#application-form">application form</a> before the deadline.</li>
   <li>The <strong>organizing committee</strong> reviews all applications and selects the participants.</li>
-  <li><strong>Selected participants</strong> receive an email with the decision and a <strong>link to pay the registration fee</strong>.</li>
-  <li>Your <strong>registration is complete</strong> once the fee is paid.</li>
+  <li><strong>Selected participants</strong> receive an email with the decision and a <strong>link to register and pay the fee</strong>.</li>
+  <li>Complete your <strong>registration</strong> by the <a href="#key-dates">registration deadline</a>.</li>
 </ol>
 ```
 
@@ -56,21 +56,26 @@ QSYI 2027 welcomes researchers from **India and abroad** working in any area of 
 </div>
 ```
 
-The registration fee is paid **only after selection**. Selected participants will receive a **payment link by email**. There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members.
+There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members.
 
 ## Key dates
 
 ```{=html}
-<ul class="dates">
-  <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
-  <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
-  <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
-</ul>
+<table class="dtable">
+  <thead>
+    <tr><th></th><th>Need a visa to visit India</th><th>Do not need a visa</th></tr>
+  </thead>
+  <tbody>
+    <tr><th>Application deadline</th><td>December 15, 2026</td><td>January 15, 2027</td></tr>
+    <tr><th>Notification of selection</th><td>December 20, 2026</td><td>January 25, 2027</td></tr>
+    <tr><th>Registration deadline</th><td>December 31, 2026</td><td>January 31, 2027</td></tr>
+  </tbody>
+</table>
 ```
 
-If you **need a visa** to visit India, please apply by the [earlier deadline]{.hl}. A conference visa can be requested only after the symposium is cleared by the [Ministry of External Affairs](https://www.mea.gov.in/), Government of India, and this clearance takes time.
+After selection, participants will receive a **link by email to register and pay the registration fee**. Please complete your registration by the **registration deadline** above.
+
+If you **need a visa** to visit India, please apply by [December 15, 2026]{.hl}. A conference visa can be requested only after the symposium is cleared by the [Ministry of External Affairs](https://www.mea.gov.in/), Government of India, and this clearance takes time.
 
 ## What you will need
 
@@ -91,9 +96,9 @@ We request all other participants to **make their own arrangements**. For travel
 **Invited speakers** and their **accompanying group members** also use this form to submit the title and abstract of their talk or poster.
 
 ```{=html}
-<!-- "is-closed" keeps the frame short while the form only shows its "not open yet" message.
-     Remove is-closed when applications open, and the frame becomes as tall as the screen. -->
-<div class="form-embed is-closed">
+<!-- The frame is as tall as the screen and the form scrolls inside it.
+     To shrink it to the short "not open" message again, add the class is-closed. -->
+<div class="form-embed">
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScB2YHULYQYiwc4Xb2enY_ksOBhaHHzViheFPMghagu3VSd5g/viewform?embedded=true" title="QSYI 2027 application form" loading="lazy">Loading…</iframe>
 </div>
 <p class="form-fallback">If the form does not load, <a href="https://docs.google.com/forms/d/e/1FAIpQLScB2YHULYQYiwc4Xb2enY_ksOBhaHHzViheFPMghagu3VSd5g/viewform">open it in a new tab</a>.</p>

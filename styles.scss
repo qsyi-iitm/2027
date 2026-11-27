@@ -250,6 +250,25 @@ a.qcard:hover .name { color: $q-navy; }
   .when { font-weight: 600; white-space: nowrap; }
 }
 
+/* Key dates table: deadlines for the two groups side by side */
+.dtable {
+  width: 100%; border-collapse: collapse; margin: 1rem 0 1.2rem;
+  th, td { padding: 0.8rem 1.1rem; border-bottom: 1px solid $q-line; text-align: left; vertical-align: middle; }
+  thead th {
+    border-top: 1px solid $q-line; background: $q-soft;
+    font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: $q-muted;
+  }
+  thead th:not(:first-child), td { width: 30%; }
+  tbody th { font-weight: 400; color: $q-ink; }
+  td { font-weight: 600; color: $q-navy; white-space: nowrap; }
+}
+@media (max-width: 600px) {
+  .dtable { font-size: 0.86rem;
+    th, td { padding: 0.6rem 0.45rem; }
+    thead th { font-size: 0.68rem; letter-spacing: 0.03em; }
+    td { white-space: normal; } }
+}
+
 /* Eminent speakers: same size as all other cards, warm tint on the avatar */
 .speaker.eminent .avatar { color: $q-navy; background: #eef0f5; width: 143px; height: 143px; font-size: 2.2rem; }
 .speaker.eminent .name { font-size: 1.15rem; }

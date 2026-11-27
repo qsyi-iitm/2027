@@ -75,14 +75,19 @@ QSYI covers the breadth of quantum science and technology, with an emphasis on t
 ## Key dates
 
 ```{=html}
-<ul class="dates">
-  <li><span>Application deadline (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Notification of selection (participants who need a visa to visit India)</span><span class="when">To be announced</span></li>
-  <li><span>Application deadline (participants who do not need a visa)</span><span class="when">To be announced</span></li>
-  <li><span>Notification of selection (participants who do not need a visa)</span><span class="when">To be announced</span></li>
-  <li><span>Symposium</span><span class="when">March 15 to 19, 2027</span></li>
-</ul>
+<table class="dtable">
+  <thead>
+    <tr><th></th><th>Need a visa to visit India</th><th>Do not need a visa</th></tr>
+  </thead>
+  <tbody>
+    <tr><th>Application deadline</th><td>December 15, 2026</td><td>January 15, 2027</td></tr>
+    <tr><th>Notification of selection</th><td>December 20, 2026</td><td>January 25, 2027</td></tr>
+    <tr><th>Registration deadline</th><td>December 31, 2026</td><td>January 31, 2027</td></tr>
+  </tbody>
+</table>
 ```
+
+After selection, participants will receive a **link by email to register and pay the registration fee**. There is [no registration fee]{.hl-blue} for invited speakers and their accompanying group members.
 
 For details on how to apply, see the [Application](application.html) page.
 
